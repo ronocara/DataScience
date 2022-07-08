@@ -1,2 +1,2 @@
-# DataScience-SelfStudy
-compilation of self study resources and exercises for Data Science 
+# Data Science Projects
+compilation of my data science projects 
